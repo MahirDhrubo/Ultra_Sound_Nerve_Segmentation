@@ -1,0 +1,11 @@
+INIT_LR = 0.001
+BATCH_SIZE = 32
+EPOCHS = 30
+
+train samples = 267
+terst samples = 67
+time taken = 5821.12s
+image size = 512 x 512
+
+train loss started at 0.190656, ends with 0.015117
+test loss started at 0.099685, ends with 0.012084
